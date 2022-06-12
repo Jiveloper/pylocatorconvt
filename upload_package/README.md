@@ -5,7 +5,7 @@
 Download using pip via pypi.
 
 ```bash
-$ pip install 'package' --upgrade
+$ pip install pylocatorconvt --upgrade
   or
 $ pip install git+'repository'
 ```
