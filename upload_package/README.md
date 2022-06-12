@@ -21,5 +21,5 @@ $ pip install git+'repository'
 ```
 
 ## Features
-  * Create str Locator
-  * Create tuple Locator
+  * Create by xpath str Locator
+  * Create by xpath tuple Locator
